@@ -1,0 +1,20 @@
+Q1 What is git?
+Ans- git is a version control system. 
+
+Q2 What is GitHub?
+Ans- GitHub is a code hosting platform for VCS and collaboration.
+
+Q3 Mention some popular Git hosting sevices?
+Ans-GitHub.
+
+Q4 Diffrent types of version control system?
+Ans- Centralized version control system and Distributed version control system.
+
+Q5 What benefits come with using GIT?
+Ans- Git branches are easy to merge.
+
+Q6 What is a Git repository?
+Ans-Git repository is the .git inside a project.
+
+Q7 How can you initialize a repository in Git?
+Ans- in the git bash using git init command.
